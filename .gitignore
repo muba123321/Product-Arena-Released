@@ -1,0 +1,87 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+git 
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+amplify/
+=======
+=======
+>>>>>>> 100265adbe5e56e89a36caaf7aabe7c47b0fcb96
+=======
+>>>>>>> b251eee011e22980675c33fdb8caaf27e0612827
+
+#amplify-do-not-edit-begin
+amplify/\#current-cloud-backend
+amplify/.config/local-*
+amplify/logs
+amplify/mock-data
+amplify/mock-api-resources
+amplify/backend/amplify-meta.json
+amplify/backend/.temp
+build/
+dist/
+node_modules/
+aws-exports.js
+awsconfiguration.json
+amplifyconfiguration.json
+<<<<<<< HEAD
+amplifyconfiguration.dart
+=======
+amplifyconfiguration.dart
+>>>>>>> b251eee011e22980675c33fdb8caaf27e0612827
+amplify-build-config.json
+amplify-gradle-config.json
+amplifytools.xcconfig
+.secret-*
+**.sample
+#amplify-do-not-edit-end
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 8b1fb4ba6566b25401f3f97b5445d71778542949
+=======
+>>>>>>> 100265adbe5e56e89a36caaf7aabe7c47b0fcb96
+=======
+>>>>>>> b251eee011e22980675c33fdb8caaf27e0612827
